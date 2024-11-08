@@ -1,4 +1,4 @@
-# ICC01-Class06-GitACP
+# ICC01
 
 # ICC Student Repository
 
